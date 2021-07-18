@@ -1,0 +1,116 @@
+
+@color_tone1: #f5d276;
+
+
+@color_white: #ffffff;//白色字体
+@color_blueviolet: #b00cb3;//边框或字体颜色
+
+@color_indigo: #1b041d;//按钮内容背景
+@color_tone20: #291037;
+@color_purple:#511115;//center内容背景色
+@color_purple:#fff;//center内容背景色
+
+
+@color_indigo_hover: #2d0730;//按钮hover
+@color_white2:#ea3c43;//按钮背景
+@color_white2_hover: #eceacc;//按钮hover
+@color_input: #866789;//input字体
+
+@color_gray: #666;//center标题字体颜色
+@color_gray2: #333;//center标题字体颜色
+@color_darkgray: #513663;//center标题背景
+@color_yellow: #d4c3b2;//按钮背景***
+@color_dimgray: #735885;//center说明字体
+
+@font_size12: 12px;
+@font_size16: 16px;
+@font_size17: 17px;
+@font_size18: 18px;
+@font_size20: 20px;
+@font_size21: 21px;
+@font_size22: 22px;
+@font_size24: 24px;
+
+.mixin_button(@width,@height,@background,@color){
+    width: @width;
+    height: @height;
+    text-align: center;
+    line-height: @height;
+    background: @background;
+    color: @color;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    overflow: hidden;
+}
+
+.mixin_div(@width,@height,@background,@color,@center){
+    width: @width;
+    height: @height;
+    text-align: @center;
+    line-height: @height;
+    background: @background;
+    color: @color;
+    overflow: hidden;
+}
+
+.mixin_span(@width,@height,@background,@color,@center){
+    width: @width;
+    height: @height;
+    display: inline-block;
+    text-align: @center;
+    line-height: @height;
+    background: @background;
+    color: @color;
+    overflow: hidden;
+}
+
+.mixin_li(@width,@height){
+    width: @width;
+    height: @height;
+    float: left;
+    text-align: center;
+    line-height: @height;
+    list-style: none;
+}
+
+.mixin_input(@width,@height){
+    width: @width;
+    height: @height;
+    text-align: left;
+    line-height: @height;
+    text-indent: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.mixin_float(@width,@height,@float){
+    width: @width;
+    height: @height;
+    float: @float;
+}
+
+.mixin_img(@width,@height){
+    width: @width;
+    height: @height;
+    vertical-align: middle;
+    border: none;
+}
+// 背景图片
+.mixin_image(@url){
+    background-image: @url;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+// 垂直居中
+.mixin_center(@width,@height){
+    width: @width;
+    height: @height;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -@height/2 0px 0px -@width/2;
+}

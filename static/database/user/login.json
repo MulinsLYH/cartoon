@@ -1,0 +1,14 @@
+{
+    "code": 200,
+    "user_info": {
+        "token": "TOKEN_e323d630c0cce7e74c7a9eeeessa093a88007ye",
+        "nickname": "山有木兮木有枝",
+        "avatar_img": "../../../static/images/headImage.jpg",
+        "sex": "男",
+        "vip": 8,
+        "zhuangshi": 132,
+        "smallFish": 162,
+        "user_id": 51
+    },
+    "message": "登录成功"
+}

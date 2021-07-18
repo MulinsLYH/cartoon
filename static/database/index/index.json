@@ -1,0 +1,51 @@
+{
+    "data": {
+        "total": 6,
+        "code":200,
+        "list": [
+            {
+                "index": 0,
+                "imgsrc": "../../../static/images/home/douluo.png",
+                "alreadyRead": 1,
+                "read": 100,
+                "title": "斗罗大陆"
+            },
+            {
+                "index": 1,
+                "imgsrc": "../../../static/images/home/douluo.png",
+                "alreadyRead": 1,
+                "read": 100,
+                "title": "斗罗大陆"
+            },
+            {
+                "index": 2,
+                "imgsrc": "../../../static/images/home/douluo.png",
+                "alreadyRead": 1,
+                "read": 100,
+                "title": "斗罗大陆"
+            },
+            {
+                "index": 3,
+                "imgsrc": "../../../static/images/home/douluo.png",
+                "alreadyRead": 1,
+                "read": 100,
+                "title": "斗罗大陆"
+            },
+            {
+                "index": 4,
+                "imgsrc": "../../../static/images/home/douluo.png",
+                "alreadyRead": 1,
+                "read": 100,
+                "title": "斗罗大陆"
+            },
+            {
+                "index": 5,
+                "imgsrc": "../../../static/images/home/douluo.png",
+                "alreadyRead": 1,
+                "read": 100,
+                "title": "斗罗大陆"
+            }
+        
+        ]
+    }
+}

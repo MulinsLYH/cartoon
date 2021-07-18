@@ -1,0 +1,101 @@
+
+
+{
+    "total": 15,
+    "current_page": 1,
+    "page_size": 10,
+    "total_page": 1,
+    "code":200,
+    "list": [
+        {
+            "id":0,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages4.jpg",
+            "title":"斗罗大陆1",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":1,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages5.jpg",
+            "title":"斗罗大陆2",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":2,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages3.jpg",
+            "title":"斗罗大陆3",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":3,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages4.jpg",
+            "title":"斗罗大陆4",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":4,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages5.jpg",
+            "title":"斗罗大陆5",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":5,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages3.jpg",
+            "title":"斗罗大陆6",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":6,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages4.jpg",
+            "title":"斗罗大陆7",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":7,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages5.jpg",
+            "title":"斗罗大陆8",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":8,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages3.jpg",
+            "title":"斗罗大陆9",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":9,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages4.jpg",
+            "title":"斗罗大陆10",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":10,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages5.jpg",
+            "title":"斗罗大陆11",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":11,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages4.jpg",
+            "title":"斗罗大陆12",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":12,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages4.jpg",
+            "title":"斗罗大陆13",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":13,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages5.jpg",
+            "title":"斗罗大陆14",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        },
+        {
+            "id":14,
+            "imgsrc":"../../../static/images/swiperDemo/swiperImages4.jpg",
+            "title":"斗罗大陆15",
+            "des":"描述描述描述描述描述描述描述描述描述描述描述描述"
+        }
+    ]
+}
