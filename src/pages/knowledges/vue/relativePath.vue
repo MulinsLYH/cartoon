@@ -37,8 +37,8 @@ export default {
         }
     },
     created(){
-        this.importAi();
-        this.requireAi();
+        // this.importAi();
+        // this.requireAi();
     },
     methods:{
         importAi(){

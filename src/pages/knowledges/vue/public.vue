@@ -1,6 +1,6 @@
 <template>
 	<section id="public">
-		<el-button type="success" @click="browser">全局方法</el-button>
+		<button type="success" @click="browser">全局方法</button>
 	</section>
 </template>
 

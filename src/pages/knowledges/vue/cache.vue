@@ -38,7 +38,7 @@ export default {
 
             // this.$cookies.set("test_u890", "value", "expireTimes", "path", "domain", "secure");
             
-            this.$cookies.set("test_cookies","GH1.1.1689020474.1484362313","2m");
+            // this.$cookies.set("test_cookies","GH1.1.1689020474.1484362313","2m");
             // this.$cookies.get("test_cookies");
             // this.$cookies.remove("test_cookies");
         },

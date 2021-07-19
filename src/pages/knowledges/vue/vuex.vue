@@ -1,11 +1,11 @@
 <template>
 <div>
 	<!--用了methods与computed-->
-	<el-button type="info">mapGetters:{{money}}</el-button>
-	<el-button type="success" @click="playerInfo({title: 'money',params: 9966666888})">...mapMutations</el-button>
-	<el-button type="error" @click="submit_mutation">调用_mutation</el-button>
-	<el-button type="warning" @click="getPlayerInfo(player_info)">...mapActions</el-button>
-	<el-button type="error" @click="submit_action">调用_action</el-button>
+	<button type="info">mapGetters:{{money}}</button>
+	<button type="success" @click="playerInfo({title: 'money',params: 9966666888})">...mapMutations</button>
+	<button type="error" @click="submit_mutation">调用_mutation</button>
+	<button type="warning" @click="getPlayerInfo(player_info)">...mapActions</button>
+	<button type="error" @click="submit_action">调用_action</button>
 </div>
 </template>
 

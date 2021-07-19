@@ -38,10 +38,12 @@ export default {
         };
     },
     created() {
-        this.getJson();
-        this.demo();
+        // this.getJson();
+        // this.demo();
     },
     methods: {
+        // 例子
+        
         getJson () {
             let self = this;
             self.$apihttp({

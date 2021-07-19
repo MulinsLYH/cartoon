@@ -4,7 +4,7 @@
 	<hr />
 	<div class="rainbow" v-for="item in message">{{item|pain}}</div>
 	<hr />
-	<el-button type="warning" @click="deleteFilters">删除与过滤</el-button>
+	<button type="warning" @click="deleteFilters">删除与过滤</button>
 </section>
 </template>
 

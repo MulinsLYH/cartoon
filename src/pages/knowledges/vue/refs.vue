@@ -1,9 +1,9 @@
 <template>
 <section id="refs">
 			<div class='rainbow' id="880" ref="stars">ref减少dom操作</div>
-			<el-button type="primary" @click="light">Primary</el-button>
+			<button type="primary" @click="light">Primary</button>
 			<!-- 子组件refs -->
-			<el-button type="warning" @click="gift">ref调用子组件数据和方法</el-button>
+			<button type="warning" @click="gift">ref调用子组件数据和方法</button>
 			<moon ref="play"></moon>
 </section>
 </template>

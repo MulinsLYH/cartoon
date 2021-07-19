@@ -3,7 +3,7 @@
 	<!--transition 的封装组件-->
 	<!--https://cn.vuejs.org/v2/guide/transitions.html-->
 	<div id="demo">
-			<el-button v-on:click="show = !show">Toggle</el-button>
+			<button v-on:click="show = !show">Toggle</button>
 			<transition name="fade">
 				<p v-if="show" class="rainbow">hello</p>
 			</transition>

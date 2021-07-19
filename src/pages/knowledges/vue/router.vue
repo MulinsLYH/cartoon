@@ -1,15 +1,15 @@
 <template>
     <section id="router">
         <!-- https://segmentfault.com/a/1190000012393587 -->
-        <el-button>
+        <button>
             <router-link to="/mcenter/crux?id=888&status=false">
                 路由router-link跳转
             </router-link>
-        </el-button>
+        </button>
         
-        <el-button type="primary" @click="jump()">路由跳转</el-button>
+        <button type="primary" @click="jump()">路由跳转</button>
 
-        <el-button type="primary" @click="code()">url编码</el-button>
+        <button type="primary" @click="code()">url编码</button>
     </section>    
 </template>
 
